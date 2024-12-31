@@ -1,5 +1,5 @@
 更新时间,#genre#
-2024-12-31 18:26:43,url
+2025-01-01 06:22:05,url
 🏠广东频道,#genre#
 广东珠江,http://183.237.246.14:32/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
 广东珠江,http://183.11.239.36:808/hls/83/index.m3u8
@@ -44,7 +44,7 @@
 广东体育,http://120.77.205.62:8087/rtp/239.77.0.168:5146
 广东体育,https://stream1.freetv.fun/yan-dong-ti-yu-6.ctv
 广东体育,https://stream1.freetv.fun/yan-dong-ti-yu-24.m3u8
-广东体育,http://14.19.168.64:4022/udp/239.77.0.112:5146$1920x1080
+广东体育,http://14.19.168.64:4022/udp/239.77.0.112:5146
 广东体育,https://stream1.freetv.fun/yan-dong-ti-yu-3.ctv
 广东体育,https://stream1.freetv.fun/yan-dong-ti-yu-14.ctv
 广东体育,https://stream1.freetv.fun/yan-dong-ti-yu-23.ctv
@@ -97,6 +97,7 @@
 广东卫视,http://116.128.242.83:9901/tsfile/live/0124_1.m3u8?key=txiptv&playlive=1&authid=0
 广东卫视,http://113.57.20.158:9901/tsfile/live/1039_1.m3u8?key=txiptv&playlive=1&authid=0
 广东卫视,http://222.169.85.8:9901/tsfile/live/0125_1.m3u8?key=txiptv&playlive=1&authid=0
+广东卫视,http://223.241.247.214:9901/tsfile/live/1011_1.m3u8?key=txiptv&playlive=1&authid=0
 广东卫视,http://60.12.183.46:9901/tsfile/live/0107_1.m3u8?key=txiptv&playlive=0&authid=0
 广东卫视,http://220.164.192.48:50085/tsfile/live/0139_1.m3u8?key=txiptv&playlive=0&authid=0
 广东卫视,http://61.138.128.226:19901/tsfile/live/0125_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -120,7 +121,6 @@
 广东卫视,http://221.2.148.205:8154/tsfile/live/0125_1.m3u8?key=txiptv&playlive=1&authid=0
 广东卫视,http://219.145.93.74:9999/tsfile/live/1006_1.m3u8
 广东卫视,http://121.19.134.222:808/tsfile/live/1028_1.m3u8
-广东卫视,http://119.62.57.8:9901/tsfile/live/0120_1.m3u8
 大湾区卫视,http://211.101.247.19:6699/api/migu.php?type=hls&url=dwqws
 大湾区卫视,http://tvbox6.icu/tv/dwqws.m3u8
 大湾区卫视,http://gmxw.7766.org:808/hls/132/index.m3u8
@@ -144,7 +144,7 @@
 广州影视,http://r.jdshipin.com/sFw4S
 广州影视,https://stream1.freetv.fun/yan-zhou-ying-shi-13.ctv
 广州影视,https://stream1.freetv.fun/yan-zhou-ying-shi-11.ctv
-广州影视,http://14.19.168.64:4022/udp/239.253.43.73:5146$1920x1080
+广州影视,http://14.19.168.64:4022/udp/239.253.43.73:5146
 广州影视,https://stream1.freetv.fun/yan-zhou-ying-shi-8.m3u8
 广州影视,http://php.jdshipin.com:8880/gztv.php?id=yingshi
 广州影视,https://stream1.freetv.fun/yan-zhou-ying-shi-16.ctv
@@ -158,7 +158,7 @@
 广州影视,https://stream1.freetv.fun/yan-zhou-ying-shi-15.ctv
 广州影视,https://stream1.freetv.fun/yan-zhou-ying-shi-10.ctv
 广州影视,http://php.jdshipin.com:8880/iptv.php?id=gzys
-广州竞赛,http://14.19.168.64:4022/udp/239.253.43.75:5146$1920x1080
+广州竞赛,http://14.19.168.64:4022/udp/239.253.43.75:5146
 广州竞赛,https://stream1.freetv.fun/yan-zhou-jing-sai-29.ctv
 广州竞赛,https://stream1.freetv.fun/yan-zhou-jing-sai-16.ctv
 广州竞赛,https://stream1.freetv.fun/yan-zhou-jing-sai-7.m3u8
@@ -197,7 +197,7 @@
 江门综合,https://stream1.freetv.fun/jiang-men-zong-he-3.ctv
 江门综合,https://stream1.freetv.fun/jiang-men-zong-he-11.ctv
 江门综合,https://stream1.freetv.fun/jiang-men-zong-he-9.ctv
-江门综合,http://14.19.168.64:4022/udp/239.77.0.201:5146$1920x1080
+江门综合,http://14.19.168.64:4022/udp/239.77.0.201:5146
 江门综合,http://120.77.205.62:8087/rtp/239.77.0.195:5146
 江门综合,https://stream1.freetv.fun/jiang-men-zong-he-13.ctv
 江门综合,https://stream1.freetv.fun/jiang-men-zong-he-6.ctv
@@ -211,7 +211,7 @@
 佛山综合,http://php.jdshipin.com:8880/fstv.php?id=fszh
 佛山综合,https://stream1.freetv.fun/fo-shan-zong-he-10.ctv
 佛山综合,https://stream1.freetv.fun/fo-shan-zong-he-8.ctv
-佛山综合,http://14.19.168.64:4022/udp/239.253.43.57:5146$1920x1080
+佛山综合,http://14.19.168.64:4022/udp/239.253.43.57:5146
 佛山综合,https://stream1.freetv.fun/fo-shan-zong-he-2.ctv
 佛山综合,https://stream1.freetv.fun/fo-shan-zong-he-19.ctv
 佛山综合,https://stream1.freetv.fun/fo-shan-zong-he-16.ctv
@@ -238,7 +238,6 @@
 翡翠台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct3
 翡翠台,http://tvdrs.wsrtv.com.cn:8100/channellive/ch1.flv$1920x1080
 翡翠台,http://r.jdshipin.com/GeWKr?id=fct406
-翡翠台,http://zw9999.cnstream.top:80/play/ubI0Nrlni6TwusjXuSxNxA5oJl8b5Icz-0MXK7POxcc/ts$1920x1080
 翡翠台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct4
 翡翠台,http://php.jdshipin.com:8880/smt.php?id=jade_twn
 翡翠台,https://stream1.freetv.fun/ba009d94229ed40a5d9289178463fba7aa31fb0622f8ab2d66c01147828743ab.m3u8
@@ -269,7 +268,6 @@
 凤凰中文,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzw
 凤凰中文,https://stream1.freetv.fun/feng-huang-zhong-wen-15.ctv
 凤凰中文,https://stream1.freetv.fun/feng-huang-zhong-wen-8.ctv
-凤凰中文,http://202.168.187.208:9089/tsfile/live/1009_1.m3u8
 凤凰中文,https://stream1.freetv.fun/feng-huang-zhong-wen-10.m3u8
 凤凰中文,https://stream1.freetv.fun/fe3d3346f748e4ec230691be958aff27e91c225b43b5855685cd1fbe79c56f60.m3u8
 凤凰中文,https://stream1.freetv.fun/feng-huang-zhong-wen-5.ctv
@@ -281,6 +279,7 @@
 凤凰中文,https://stream1.freetv.fun/feng-huang-zhong-wen-16.m3u8
 凤凰中文,http://r.jdshipin.com/cCCzW
 凤凰中文,https://stream1.freetv.fun/feng-huang-zhong-wen-1.ctv
+凤凰中文,https://stream1.freetv.fun/feng-huang-zhong-wen-2.ctv
 凤凰资讯,http://117.27.190.42:9998/tsfile/live/23279_1.m3u8?key=txiptv&playlive=1&authid=0
 凤凰资讯,https://stream1.freetv.fun/feng-huang-zi-xun-8.m3u8
 凤凰资讯,http://playtv-live.ifeng.com/live/06OLEEWQKN4.m3u8
@@ -359,12 +358,14 @@ J2,http://r.jdshipin.com/Nr5jq
 🏀体育频道,#genre#
 CCTV-5,http://220.164.192.48:50085/tsfile/live/0006_1.m3u8?key=txiptv&playlive=0&authid=0
 CCTV-5,http://59.173.243.210:9901/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-5,http://223.241.247.214:9901/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-5,http://116.128.242.83:9901/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-5,http://110.53.218.182:9902/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-5,http://123.138.22.30:9901/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-5,http://61.157.139.15:9901/tsfile/live/2375_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-5,http://61.138.128.226:19901/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-5,http://113.57.20.158:9901/tsfile/live/1024_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-5,http://218.3.138.25:1111/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-5,http://222.134.245.16:9901/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-5,http://123.129.70.178:9901/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-5,http://116.117.104.242:8096/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -376,17 +377,15 @@ CCTV-5,http://118.122.189.74:9901/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&
 CCTV-5,http://61.136.172.236:9901/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-5,http://220.249.114.102:9901/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-5,http://58.220.219.14:9901/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV-5,http://111.9.163.109:9901/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-5,http://111.9.163.109:9901/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0$1920x1080
 CCTV-5,http://117.27.190.42:9998/tsfile/live/23236_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV-5,http://219.159.91.10:9901/tsfile/live/0005_1.m3u8
+CCTV-5,http://219.159.91.10:9901/tsfile/live/0005_1.m3u8$1920x1080
 CCTV-5,http://220.164.192.48:50085/tsfile/live/0006_1.m3u8
 CCTV-5,http://219.145.93.74:9999/tsfile/live/0005_1.m3u8
 CCTV-5,http://110.7.129.204:8096/tsfile/live/0005_1.m3u8
 CCTV-5,http://113.220.233.47:9999/tsfile/live/0005_1.m3u8
 CCTV-5,http://58.17.48.228:808/hls/5/index.m3u8
 CCTV-5,http://116.128.242.83:9901/tsfile/live/0006_1.m3u8
-CCTV-5,http://111.14.181.15:9901/tsfile/live/0005_1.m3u8
-CCTV-5,http://119.62.57.8:9901/tsfile/live/0005_1.m3u8
 CCTV-5+,http://116.128.242.83:9901/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-5+,http://222.134.245.16:9901/tsfile/live/0016_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-5+,http://59.173.243.210:9901/tsfile/live/1021_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -430,7 +429,7 @@ CCTV-5+,http://123.129.70.178:9901/tsfile/live/0016_1.m3u8
 广东体育,http://120.77.205.62:8087/rtp/239.77.0.168:5146
 广东体育,https://stream1.freetv.fun/yan-dong-ti-yu-6.ctv
 广东体育,https://stream1.freetv.fun/yan-dong-ti-yu-24.m3u8
-广东体育,http://14.19.168.64:4022/udp/239.77.0.112:5146$1920x1080
+广东体育,http://14.19.168.64:4022/udp/239.77.0.112:5146
 广东体育,https://stream1.freetv.fun/yan-dong-ti-yu-3.ctv
 广东体育,https://stream1.freetv.fun/yan-dong-ti-yu-14.ctv
 广东体育,https://stream1.freetv.fun/yan-dong-ti-yu-23.ctv
@@ -478,17 +477,14 @@ CCTV-5+,http://123.129.70.178:9901/tsfile/live/0016_1.m3u8
 五星体育,https://stream1.freetv.fun/ipv6-wu-xing-ti-yu-7.m3u8
 五星体育,http://139.196.151.191:6664/rtp/239.45.3.210:5140
 五星体育,http://111.31.22.3/cache.ott.fifalive.itv.cmvideo.cn/000000001000/2000000002000000007/1.m3u8?channel-id=hnbblive&Contentid=2000000002000000007&livemode=1&stbId=3
-劲爆体育,http://www.72444165.xyz:5005/itv/bestzb/5000000002000029972
-超级体育,http://www.72444165.xyz:5005/itv/ystenlive/1000000001000009601
 超级体育,http://112.102.217.173:9003//hls/86/index.m3u8
 超级体育,http://111.31.22.5/cache.ott.fifalive.itv.cmvideo.cn/000000001000/1000000001000009601/index.m3u8?channel-id=ystenlive&Contentid=1000000001000009601&livemode=1&stbId=no
 超级体育,http://111.31.22.5/cache.ott.fifalive.itv.cmvideo.cn/000000001000/1000000001000009601/1.m3u8?channel-id=ystenlive&Contentid=1000000001000009601&livemode=1&stbId=3
 精品体育,http://112.102.217.173:9003//hls/89/index.m3u8
 精品体育,http://dl.wifi942.com:66/jsyd/jsyd.php?id=GITV-JS-65
 精品体育,http://111.31.22.5/cache.ott.fifalive.itv.cmvideo.cn/000000001000/1000000004000014634/index.m3u8?channel-id=ystenlive&Contentid=1000000004000014634&livemode=1&stbId=no
-精品体育,http://www.72444165.xyz:5005/itv/ystenlive/1000000004000014634
 精品体育,http://111.31.22.5/cache.ott.fifalive.itv.cmvideo.cn/000000001000/1000000004000014634/1.m3u8?channel-id=ystenlive&Contentid=1000000004000014634&livemode=1&stbId=3
-广州竞赛,http://14.19.168.64:4022/udp/239.253.43.75:5146$1920x1080
+广州竞赛,http://14.19.168.64:4022/udp/239.253.43.75:5146
 广州竞赛,https://stream1.freetv.fun/yan-zhou-jing-sai-29.ctv
 广州竞赛,https://stream1.freetv.fun/yan-zhou-jing-sai-16.ctv
 广州竞赛,https://stream1.freetv.fun/yan-zhou-jing-sai-7.m3u8
@@ -563,7 +559,6 @@ CCTV-5+,http://123.129.70.178:9901/tsfile/live/0016_1.m3u8
 安徽综艺体育,http://snapshot-live-ht.ahtv.cn/atvrtmp/143_q_live161829415240627.m3u8
 安徽综艺体育,https://stream1.freetv.fun/an-hui-zong-yi-ti-yu-8.m3u8
 睛彩篮球,http://dl.wifi942.com:66/jsyd/jsyd.php?id=HD-8000k-1080P-miguaoyun1
-睛彩羽毛球,http://221.218.157.61:3527/rtp/239.3.1.127:8001$1920x1080
 风云足球,http://120.238.94.10:9901/tsfile/live/1087_1.m3u8
 风云足球,http://112.234.21.109:9901/tsfile/live/1031_1.m3u8
 风云足球,http://113.236.31.149:9901/tsfile/live/1122_1.m3u8
@@ -576,6 +571,5 @@ CCTV-5+,http://123.129.70.178:9901/tsfile/live/0016_1.m3u8
 魅力足球,https://stream1.freetv.fun/ipv6-mei-li-zu-qiu-5.m3u8
 魅力足球,https://stream1.freetv.fun/ipv6-mei-li-zu-qiu-4.m3u8
 魅力足球,https://stream1.freetv.fun/ipv6-mei-li-zu-qiu-3.m3u8
-魅力足球,http://www.72444165.xyz:5005/itv/bestzb/5000000011000031207
 魅力足球,http://php.jdshipin.com:8880/itv6.php?cid=bestzb&id=5000000011000031207
 魅力足球,https://stream1.freetv.fun/mei-li-zu-qiu-1.m3u8
